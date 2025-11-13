@@ -29,7 +29,7 @@ jobs:
           name: Deploy to Railway App
           command: |
             cd bankchurn-api
-            railway up --service=spirited-flexibility
+            railway up --service=ingenious-mindfulness
             railway up --detach
 
 
